@@ -2,12 +2,15 @@
 
 ## 👨‍💻 Currently working on
 [Sim racing analysis for ACC](https://github.com/Bauero/sim_racing_track_analysis)
+
 [16-bit assembly interpreter in Python](https://github.com/Bauero/Assembly_Interpreter)
 
 ## 🗂️ Finished Projects
 
 [Currency exchange table in Excel](https://github.com/Bauero/currency_to_excel_table)
+
 [Weblock to URL Raycast script](https://github.com/Bauero/webloc2url-raycast-script)
+
 [Disconnect all external drivers Raycast Script](https://github.com/Bauero/disconnect-all-external-drives)
 
 
