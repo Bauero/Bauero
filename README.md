@@ -13,6 +13,8 @@
 
 [Disconnect all external drivers Raycast Script](https://github.com/Bauero/disconnect-all-external-drives)
 
+[Equation to RPN converter and calculator in C++](https://github.com/Bauero/rpn_calculator)
+
 
 ---
 
