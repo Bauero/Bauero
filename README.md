@@ -7,6 +7,8 @@
 
 ## 🗂️ Finished Projects
 
+[Flutter App for Inventarization (University Project)](https://github.com/Bauero/flutter-inventory-app)
+
 [Currency exchange table in Excel](https://github.com/Bauero/currency_to_excel_table)
 
 [Weblock to URL Raycast script](https://github.com/Bauero/webloc2url-raycast-script)
