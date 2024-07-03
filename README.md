@@ -1,11 +1,13 @@
 # Hi there, I'm Piotr 👋
 
 ## 👨‍💻 Currently working on
-[Sim racing analysis for ACC](https://github.com/Bauero/sim_racing_track_analysis)
+[OpenCV image formatting project](https://github.com/Bauero/opencv_image_formatter)
 
 [16-bit assembly interpreter in Python](https://github.com/Bauero/Assembly_Interpreter)
 
 ## 🗂️ Finished Projects
+
+[Sim racing analysis for ACC](https://github.com/Bauero/sim_racing_track_analysis)
 
 [Flutter App for Inventarization (University Project)](https://github.com/Bauero/flutter-inventory-app)
 
