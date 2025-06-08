@@ -3,9 +3,9 @@
 ## 👨‍💻 Currently working on
 [OpenCV image formatting project](https://github.com/Bauero/opencv_image_formatter)
 
-[16-bit assembly interpreter in Python](https://github.com/Bauero/Assembly_Interpreter)
-
 ## 🗂️ Finished Projects
+
+[16-bit assembly interpreter in Python](https://github.com/Bauero/Assembly_Interpreter)
 
 [Sim racing analysis for ACC](https://github.com/Bauero/sim_racing_track_analysis)
 
