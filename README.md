@@ -28,8 +28,7 @@
 
 ---
 # 💻 😃 Technologies I work with every-day
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<a href="https://robotframework.org/" target="_blank" style="text-decoration: none;">
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <a href="https://robotframework.org/" target="_blank" style="text-decoration: none;">
     <div style="background-color:black; display: inline-block; padding: 4px; border-radius:5px">
         <div style="display: flex; align-items: center; background-color: white; padding: 8px;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" alt="Robot-Framework" height="34px" />
