@@ -27,9 +27,18 @@
 <br clear="both">
 
 ---
-
-# 💻 Technologies I have interacted with:
+# 💻 😃 Technologies I work with every-day
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<a href="https://robotframework.org/" target="_blank" style="text-decoration: none;">
+    <div style="background-color:black; display: inline-block; padding: 4px; border-radius:5px">
+        <div style="display: flex; align-items: center; background-color: white; padding: 8px;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" alt="Robot-Framework" height="34px" />
+            <span style="margin-left: 8px; color:black;">RobotFramework</span>
+        </div>
+    </div>
+</a>
+
+# 💻 🤔 Technologies I have interacted with:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
