@@ -8,7 +8,7 @@ I'm engineer graduate of Warsaw University Of Life Sciences IT studies, who valu
   <span style="font-size: 16px; margin-left: 6px; vertical-align: middle; color: black;">Orange Poland</span>
 </a>. I love working with data, and in near future I will be focusing on gathering experience and knowledge in this area.
 
-If my github activity tree looks empty it usually means I had a lot to do in my job - but like with plans, I'm trying my best to keep it greeen 🌳
+If my github activity tree looks empty it usually means I had a lot to do in my job - but like with plants, I'm trying my best to keep it greeen 🌳 😅
 
 ## 👨‍💻 Currently, I'm working on
 
