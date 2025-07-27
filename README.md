@@ -3,7 +3,7 @@
 I'm engineer graduate of Warsaw University Of Life Sciences studies, who values quality and efficiency in code. Currently I'm employed as an Lead Test Automator for <a href="https://www.linkedin.com/company/orangepolska/posts/?feedView=all" target="_blank" style="text-decoration: none;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/800px-Orange_logo.svg.png" alt="Orange Poland"
        height="20" style="vertical-align: center; position: relative; top: 2px;">
-  <span style="font-size: 16px; margin-left: 6px; vertical-align: middle; color: black;">Orange Poland</span>
+  <span style="font-size: 16px; margin-left: 6px; vertical-align: center; color: black;">Orange Poland</span>
 </a>
 
 ## 👨‍💻 Currently working on
