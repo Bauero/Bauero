@@ -28,16 +28,17 @@
 
 ---
 # 💻 😃 Technologies I work with every-day
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <a href="https://robotframework.org/" target="_blank" style="text-decoration: none;">
-    <div style="background-color:black; display: inline-block; padding: 4px; border-radius:5px">
-        <div style="display: flex; align-items: center; background-color: white; padding: 8px;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" alt="Robot-Framework" height="34px" />
-            <span style="margin-left: 8px; color:black;">RobotFramework</span>
-        </div>
-    </div>
-</a>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![RobotFramework](https://img.shields.io/badge/RobotFramework-black?style=for-the-badge&logo=robot-framework&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-472B85?style=for-the-badge&logo=appium&logoColor=white)  
+![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-# 💻 🤔 Technologies I have interacted with:
+# 💻 🤔 Technologies I interacted with at some point:
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-0078D6?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
