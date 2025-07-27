@@ -25,9 +25,7 @@ _if empty, I'm working on private repo's_  🤐
 # 📊 Speaking of data, my portfolio can be summarized to
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Bauero&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bauero&theme=dark&include_all_commits=true&count_private=true&layout=compact" />
-
-![](./profile-3d-contrib/profile-green-animate.svg)
+<img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bauero&theme=dark&include_all_commits=true&count_private=true&layout=compact" />
 
 <br clear="both">
 <br clear="both">
