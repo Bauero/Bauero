@@ -2,11 +2,7 @@
 
 ## 🙋‍♂️ If you would like to know a bit about me
 
-I'm engineer graduate of Warsaw University Of Life Sciences IT studies, who values quality and efficiency. Currently I'm employed as an Lead Test Automator for <a href="https://www.linkedin.com/company/orangepolska/posts/?feedView=all" target="_blank" style="text-decoration: none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/800px-Orange_logo.svg.png" alt="Orange Poland"
-       height="20" style="vertical-align: middle; position: relative; top: 2px;">
-  <span style="font-size: 16px; margin-left: 6px; vertical-align: middle; color: black;">Orange Poland</span>
-</a>. I love working with data, and in near future I will be focusing on gathering experience and knowledge in this area.
+I'm engineer graduate of Warsaw University Of Life Sciences IT studies, who values quality and efficiency. Currently I'm employed as an Lead Test Automator. I love working with data, and in near future I will be focusing on gathering experience and knowledge in this area.
 
 If my github activity tree looks empty it usually means I had a lot to do in my job - but like with plants, I'm trying my best to keep it alive and green 😉
 
