@@ -10,9 +10,14 @@ I'm engineer graduate of Warsaw University Of Life Sciences IT studies, who valu
 
 If my github activity tree looks empty it usually means I had a lot to do in my job - but like with plants, I'm trying my best to keep it greeen 🌳 😅
 
+## My setup of choice
+[![My Skills](https://skillicons.dev/icons?i=apple,ubuntu,vscode,github)](https://skillicons.dev)
+
+(Windows is not my cup of tea, but I've been using it daily, for a decade, and use it in office, so it's not like I can't - I just don't want to)
+
 ## 👨‍💻 Currently, I'm working on
 
-_if empty, I'm working on private stuff_  🤐
+_if empty, I'm working on private repo's_  🤐
 
 ## 🗂️ Speaking of projects, I've successfuly completed/participated in making
 
@@ -24,7 +29,7 @@ _if empty, I'm working on private stuff_  🤐
 - [Disconnect all external drivers Raycast Script](https://github.com/Bauero/disconnect-all-external-drives)
 - [Equation to RPN converter and calculator in C++](https://github.com/Bauero/rpn_calculator)
 
-
+---
 
 # 📊 Speaking of data, my portfolio can be summarized to
 
@@ -34,42 +39,51 @@ _if empty, I'm working on private stuff_  🤐
 <br clear="both">
 <br clear="both">
 
+---
+
 # 💼 Lastly, my qualification and experience can be divided into
 
-## 🙂 Technologies I work with every-day
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## 🙂 Technologies I work with daily (_by proficiency_):
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![RobotFramework](https://img.shields.io/badge/RobotFramework-black?style=for-the-badge&logo=robot-framework&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-472B85?style=for-the-badge&logo=appium&logoColor=white)
+
+  ![Appium](https://img.shields.io/badge/Appium-472B85?style=for-the-badge&logo=appium&logoColor=white)
 ![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## 😯 Currently learning, or planning to learn soon:
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## 😯 Currently learning, or planning to learn soon (_in order_):
+  ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-0B5ED7?style=for-the-badge&logo=n8n&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-## 🤔 Technologies I’ve experimented with or used in the past
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## 🤔 Technologies I’ve experimented with or used in the past (_by likelyhood of wanting to learn them_):
   _These are languages, frameworks, or tools I’ve interacted with during coursework, small projects, or certain tasks. I don’t actively use them today and may not be up-to-date or proficient._
 
-![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-0078D6?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
-![Qt](https://img.shields.io/badge/qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+  
+  ![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-0078D6?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Qt](https://img.shields.io/badge/qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
