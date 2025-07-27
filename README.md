@@ -8,12 +8,7 @@ I'm engineer graduate of Warsaw University Of Life Sciences IT studies, who valu
   <span style="font-size: 16px; margin-left: 6px; vertical-align: middle; color: black;">Orange Poland</span>
 </a>. I love working with data, and in near future I will be focusing on gathering experience and knowledge in this area.
 
-If my github activity tree looks empty it usually means I had a lot to do in my job - but like with plants, I'm trying my best to keep it alive and <span style="color: green;">green</span> 😉
-
-## My setup of choice
-[![My Skills](https://skillicons.dev/icons?i=apple,ubuntu,vscode,github)](https://skillicons.dev)
-
-(Windows is not my cup of tea, but I've been using it daily, for a decade, and use it in office, so it's not like I can't - I just don't want to)
+If my github activity tree looks empty it usually means I had a lot to do in my job - but like with plants, I'm trying my best to keep it alive and green 😉
 
 ## 👨‍💻 Currently, I'm working on
 
