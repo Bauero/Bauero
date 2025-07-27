@@ -30,11 +30,12 @@
 # 💻 😃 Technologies I work with every-day
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![RobotFramework](https://img.shields.io/badge/RobotFramework-black?style=for-the-badge&logo=robot-framework&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-472B85?style=for-the-badge&logo=appium&logoColor=white)  
+![Appium](https://img.shields.io/badge/Appium-472B85?style=for-the-badge&logo=appium&logoColor=white)
 ![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 
 # 💻 🤔 Technologies I interacted with at some point:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
