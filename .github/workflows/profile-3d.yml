@@ -17,7 +17,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.readme_graph }}
-          USERNAME: ${{ github.Bauero }}
+          USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: ./profile-3d-contrib/profile-customize.svg
       - name: Commit & Push
         run: |
