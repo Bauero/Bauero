@@ -8,7 +8,7 @@ I'm engineer graduate of Warsaw University Of Life Sciences IT studies, who valu
   <span style="font-size: 16px; margin-left: 6px; vertical-align: middle; color: black;">Orange Poland</span>
 </a>. I love working with data, and in near future I will be focusing on gathering experience and knowledge in this area.
 
-If my github activity tree looks empty it usually means I had a lot to do in my job - but like with plants, I'm trying my best to keep it greeen 🌳 😅
+If my github activity tree looks empty it usually means I had a lot to do in my job - but like with plants, I'm trying my best to keep it alive and <span style="color: green;">green</span> 😉
 
 ## My setup of choice
 [![My Skills](https://skillicons.dev/icons?i=apple,ubuntu,vscode,github)](https://skillicons.dev)
@@ -33,8 +33,7 @@ _if empty, I'm working on private repo's_  🤐
 
 # 📊 Speaking of data, my portfolio can be summarized to
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Bauero&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-<img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bauero&theme=dark&include_all_commits=true&count_private=true&layout=compact" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bauero&langs_count=10)
 
 <br clear="both">
 <br clear="both">
