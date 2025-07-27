@@ -1,11 +1,6 @@
 # Hi there, I'm Piotr 👋
 
-I'm engineer graduate of Warsaw University Of Life Sciences studies, who values quality and efficiency in code. Currently I'm employed as an Lead Test Automator for <div style="display: inline-block;" >
-    <div style="display: flex; align-items: center; background-color: white; padding: 8px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/800px-Orange_logo.svg.png" alt="Orange Poland"style="height:20px;"></a>
-        <a style="margin-left: 8px; color:black;" href="https://www.linkedin.com/company/orangepolska/posts/?feedView=all">Orange Poland</a>
-    </div>
-</div>
+I'm engineer graduate of Warsaw University Of Life Sciences studies, who values quality and efficiency in code. Currently I'm employed as an Lead Test Automator for <div style="display: inline-block;" ><div style="display: flex; align-items: center; background-color: white; padding: 8px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/800px-Orange_logo.svg.png" alt="Orange Poland"style="height:20px;"></a><a style="margin-left: 8px; color:black;" href="https://www.linkedin.com/company/orangepolska/posts/?feedView=all">Orange Poland</a></div></div>
 
 ## 👨‍💻 Currently working on
 [OpenCV image formatting project](https://github.com/Bauero/opencv_image_formatter)
