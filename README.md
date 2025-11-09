@@ -12,6 +12,7 @@ _if empty, I'm working on private repo's_  🤐
 
 ## 🗂️ Speaking of projects, I've successfuly completed/participated in making
 
+- [QuickSort comparison with BitSort to practice C](https://github.com/Bauero/BitSort_vs_QuickSort)
 - [Sim racing analysis for ACC](https://github.com/Bauero/sim_racing_track_analysis)
 - [Flutter App for Inventarization (University Project)](https://github.com/Bauero/flutter-inventory-app)
 - [Currency exchange table in Excel](https://github.com/Bauero/currency_to_excel_table)
