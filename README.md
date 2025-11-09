@@ -58,7 +58,7 @@ _if empty, I'm working on private repo's_  🤐
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 🤔 Technologies I’ve experimented with or used in the past:
-  _These are languages, frameworks, or tools I’ve interacted with during coursework, small projects, or certain tasks. I don’t actively use them today and may not be up-to-date or proficient._
+  _These are languages, frameworks, or tools I’ve interacted with during coursework, small projects, or certain tasks. I don’t actively use them today and may not be up-to-date or proficient. However, I wanted to empahise, that in my experience I had to adapt to different styles and have seen different appraches for programming, and how to achieve particular tasks._
 
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
