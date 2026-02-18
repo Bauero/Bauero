@@ -38,13 +38,13 @@ _if empty, I'm working on private repo's_  🤐
 ## 🙂 Technologies I work with daily (_by proficiency_):
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![RobotFramework](https://img.shields.io/badge/RobotFramework-black?style=for-the-badge&logo=robot-framework&logoColor=white)
-
-  ![Appium](https://img.shields.io/badge/Appium-472B85?style=for-the-badge&logo=appium&logoColor=white)
-![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+  ![Appium](https://img.shields.io/badge/Appium-472B85?style=for-the-badge&logo=appium&logoColor=white)
+![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ## 😯 Currently learning, or planning to learn soon (_in order_):
   ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
